@@ -1,0 +1,25 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "urlFetchWhitelist": ["https://wikimedia.org/api/rest_v1/metrics/pageviews/"],
+  "dataStudio": {
+    "name": "Wikipedia Page Views",
+    "logoUrl": "https://www.scheelentech.com/img/logo-blue.png",
+    "company": "Scheelentech",
+    "companyUrl": "https://www.scheelentech.com/",
+    "addonUrl": "https://www.scheelentech.com/",
+    "supportUrl": "https://www.scheelentech.com/",
+    "description": "Get and analyze Wikipedia page views. Compare the page views of several Wikipedia articles. For example, compare the page views of your company's Wikipedia page with those of your competitors.",
+    "shortDescription": "Get and analyze Wikipedia page views.",
+    "authType": ["NONE"],
+    "feeType": ["FREE"],
+    "privacyPolicyUrl": "https://wikimediafoundation.org/wiki/Privacy_policy",
+    "termsOfServiceUrl": "https://foundation.wikimedia.org/wiki/Terms_of_Use/en",
+    "sources": ["WIKIMEDIA"],
+    "templates": {
+      "default": "89de6d1e-6df1-4c11-80a1-12fdc93cfcd9"
+    }
+  }
+}
